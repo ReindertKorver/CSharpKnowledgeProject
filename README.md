@@ -3,6 +3,7 @@ This is a project which will contain all my C# knowledge, from the basics to the
 
 - variables
 - built-in types
+- if
 - methods
 - types
 - arrays
