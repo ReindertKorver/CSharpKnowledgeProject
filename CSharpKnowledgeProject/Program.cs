@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpKnowledgeProject.Generics;
+using System;
 
 namespace CSharpKnowledgeProject
 {
@@ -6,7 +7,7 @@ namespace CSharpKnowledgeProject
     {
         private static void Main(string[] args)
         {
-            ValueTypes.Main();
+            StorageOfData.Main();
         }
     }
 }

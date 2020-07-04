@@ -83,9 +83,9 @@ namespace CSharpKnowledgeProject.ValueTypes
             //when parentheses arent needed Visual Studio will color them a darker grey
             //so above can be simplified:
             bool b1 = (false || false || test()) && true;
-            //we will and with
+
             bool c = true == true;
-            //which is equal to
+            //which is not equal to
             bool c1 = true && true;
             //I never thought of that really
         }

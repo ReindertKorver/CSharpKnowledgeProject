@@ -8,7 +8,6 @@ namespace CSharpKnowledgeProject.ValueTypes
     {
         public static void Main()
         {
-            //Aliases followed by real struct
             // # Unicode
             char l = 'a';
             char l1 = '\u000F';
